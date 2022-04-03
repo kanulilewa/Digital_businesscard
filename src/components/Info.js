@@ -9,7 +9,7 @@ export default function Info() {
                 <h2>Alexey Lozin</h2>
                 <h3>Web Developer</h3>
                 <p>www.alexeylozin.com</p>
-                <button><img className='btn-img' src='https://cdn4.iconfinder.com/data/icons/glyphs/24/icons_email-512.png'></img>Email</button>
+                <button><img className='btn-img' src='./images/1564504_email_letter_mail_message_icon.png'></img>Email</button> 
             </div>
                 
             
